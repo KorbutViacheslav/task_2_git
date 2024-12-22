@@ -1,1 +1,2 @@
 secondModify\nsocondModify\nline5\nline6\nline7\nline8\nline9\nline10
+folder2
