@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-line1dif\nline2dif\nline3\nline4\nline5\nline6\nline7\nline8\nline9\nline10
-=======
-line1update\nline2update\nline3\nline4\nline5\nline6\nline7\nline8\nline9\nline10
->>>>>>> git_2
+line1update\nline1dif\nline2update\nline2dif\nline3\nline4\nline5\nline6\nline7\nline8\nline9\nline10
